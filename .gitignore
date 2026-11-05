@@ -1,0 +1,8 @@
+/build/
+/dist/
+/AutoHideCN.ini
+/AutoHideCN.ini.tmp
+/AutoHideCN.exe
+/AutoHideCN.res
+/SHA256SUMS.txt
+__pycache__/
